@@ -1,22 +1,25 @@
 {
   "files": {
     "main.css": "/Loyalty_Card_FinalBeta/static/css/main.8c0c2edb.chunk.css",
-    "main.js": "/Loyalty_Card_FinalBeta/static/js/main.bc0dad8a.chunk.js",
-    "main.js.map": "/Loyalty_Card_FinalBeta/static/js/main.bc0dad8a.chunk.js.map",
-    "runtime-main.js": "/Loyalty_Card_FinalBeta/static/js/runtime-main.6a764abd.js",
-    "runtime-main.js.map": "/Loyalty_Card_FinalBeta/static/js/runtime-main.6a764abd.js.map",
-    "static/js/2.9f6220ee.chunk.js": "/Loyalty_Card_FinalBeta/static/js/2.9f6220ee.chunk.js",
-    "static/js/2.9f6220ee.chunk.js.map": "/Loyalty_Card_FinalBeta/static/js/2.9f6220ee.chunk.js.map",
-    "static/js/3.d7e49cdd.chunk.js": "/Loyalty_Card_FinalBeta/static/js/3.d7e49cdd.chunk.js",
-    "static/js/3.d7e49cdd.chunk.js.map": "/Loyalty_Card_FinalBeta/static/js/3.d7e49cdd.chunk.js.map",
+    "main.js": "/Loyalty_Card_FinalBeta/static/js/main.88d9cd7c.chunk.js",
+    "main.js.map": "/Loyalty_Card_FinalBeta/static/js/main.88d9cd7c.chunk.js.map",
+    "runtime-main.js": "/Loyalty_Card_FinalBeta/static/js/runtime-main.7ac14dfc.js",
+    "runtime-main.js.map": "/Loyalty_Card_FinalBeta/static/js/runtime-main.7ac14dfc.js.map",
+    "static/css/2.e30a59ac.chunk.css": "/Loyalty_Card_FinalBeta/static/css/2.e30a59ac.chunk.css",
+    "static/js/2.edece337.chunk.js": "/Loyalty_Card_FinalBeta/static/js/2.edece337.chunk.js",
+    "static/js/2.edece337.chunk.js.map": "/Loyalty_Card_FinalBeta/static/js/2.edece337.chunk.js.map",
+    "static/js/3.6e63f060.chunk.js": "/Loyalty_Card_FinalBeta/static/js/3.6e63f060.chunk.js",
+    "static/js/3.6e63f060.chunk.js.map": "/Loyalty_Card_FinalBeta/static/js/3.6e63f060.chunk.js.map",
     "index.html": "/Loyalty_Card_FinalBeta/index.html",
+    "static/css/2.e30a59ac.chunk.css.map": "/Loyalty_Card_FinalBeta/static/css/2.e30a59ac.chunk.css.map",
     "static/css/main.8c0c2edb.chunk.css.map": "/Loyalty_Card_FinalBeta/static/css/main.8c0c2edb.chunk.css.map",
-    "static/js/2.9f6220ee.chunk.js.LICENSE.txt": "/Loyalty_Card_FinalBeta/static/js/2.9f6220ee.chunk.js.LICENSE.txt"
+    "static/js/2.edece337.chunk.js.LICENSE.txt": "/Loyalty_Card_FinalBeta/static/js/2.edece337.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6a764abd.js",
-    "static/js/2.9f6220ee.chunk.js",
+    "static/js/runtime-main.7ac14dfc.js",
+    "static/css/2.e30a59ac.chunk.css",
+    "static/js/2.edece337.chunk.js",
     "static/css/main.8c0c2edb.chunk.css",
-    "static/js/main.bc0dad8a.chunk.js"
+    "static/js/main.88d9cd7c.chunk.js"
   ]
 }
