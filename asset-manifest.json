@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Loyalty_Card_FinalBeta/static/css/main.8c0c2edb.chunk.css",
-    "main.js": "/Loyalty_Card_FinalBeta/static/js/main.9b3917fc.chunk.js",
-    "main.js.map": "/Loyalty_Card_FinalBeta/static/js/main.9b3917fc.chunk.js.map",
+    "main.js": "/Loyalty_Card_FinalBeta/static/js/main.545337fc.chunk.js",
+    "main.js.map": "/Loyalty_Card_FinalBeta/static/js/main.545337fc.chunk.js.map",
     "runtime-main.js": "/Loyalty_Card_FinalBeta/static/js/runtime-main.7ac14dfc.js",
     "runtime-main.js.map": "/Loyalty_Card_FinalBeta/static/js/runtime-main.7ac14dfc.js.map",
     "static/css/2.e30a59ac.chunk.css": "/Loyalty_Card_FinalBeta/static/css/2.e30a59ac.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.e30a59ac.chunk.css",
     "static/js/2.cab90a32.chunk.js",
     "static/css/main.8c0c2edb.chunk.css",
-    "static/js/main.9b3917fc.chunk.js"
+    "static/js/main.545337fc.chunk.js"
   ]
 }
